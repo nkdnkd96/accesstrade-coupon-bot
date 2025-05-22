@@ -1,0 +1,1 @@
+# accesstrade-coupon-bot
